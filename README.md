@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 * 👂 My name is Shidharth Laishram
 * 👩 Pronouns: He/Him
-* 🔭 I’m currently working on building a website for a start-up company as a developer and a designer.
+* 🔭 I’m currently a Student pursuing Bachelors in Computer Science and Engineering.
 * 🌱 I’m currently learning Machine Learning and AI.
 * 📫 How to reach me: shidharthlaisram@gmail.com
 * ❤️ I love playing guitar, some sports, and play video-games sometimes.
