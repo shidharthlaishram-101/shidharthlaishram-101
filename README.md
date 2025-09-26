@@ -12,9 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img width="577" height="396" alt="image" src="https://github.com/user-attachments/assets/fdce2ad5-d27c-455d-ad1f-1349488924c6" />
+<img width="619" height="142" alt="image" src="https://github.com/user-attachments/assets/799f124d-3695-4951-9688-e72ca438754d" />
 
-### Hi there 👋
 * 👂 My name is Shidharth Laishram
 * 👩 Pronouns: He/Him
 * 🔭 I’m currently working on building a website for a start-up company as a developer and a designer.
