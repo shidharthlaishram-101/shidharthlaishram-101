@@ -12,7 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img width="619" height="142" alt="image" src="https://github.com/user-attachments/assets/799f124d-3695-4951-9688-e72ca438754d" />
+<p align="center">
+  <img width="619" height="142" alt="image" src="https://github.com/user-attachments/assets/799f124d-3695-4951-9688-e72ca438754d" />
+</p>
 
 * 👂 My name is Shidharth Laishram
 * 👩 Pronouns: He/Him
