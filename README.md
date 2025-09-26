@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 * 🌱 I’m currently learning Machine Learning and AI.
 * 📫 How to reach me: shidharthlaisram@gmail.com
 * ❤️ I love playing guitar, some sports, and play video-games sometimes.
+* ✅ You can see my projects: https://www.youtube.com/playlist?list=PLK2KORVEWmb0eouP0PrIDeyvvRa90EI_L
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
