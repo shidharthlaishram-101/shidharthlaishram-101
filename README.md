@@ -12,9 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
+<img width="577" height="396" alt="image" src="https://github.com/user-attachments/assets/fdce2ad5-d27c-455d-ad1f-1349488924c6" />
 
 ### Hi there 👋
 * 👂 My name is Shidharth Laishram
