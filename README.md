@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **shidharthlaishram-101/shidharthlaishram-101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi there 👋
+* 👂 My name is Shidharth Laishram
+* 👩 Pronouns: He/Him
+* 🔭 I’m currently working on building a website for a start-up company as a developer and a designer.
+* 🌱 I’m currently learning Machine Learning and AI.
+* 📫 How to reach me: shidharthlaisram@gmail.com
+* ❤️ I love playing guitar, some sports, and play video-games sometimes.
+
