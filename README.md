@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 * 📫 How to reach me: shidharthlaisram@gmail.com
 * ❤️ I love playing guitar, some sports, and play video-games sometimes.
 
-[![Shidharth's GitHub stats](https://github-readme-stats.vercel.app/api?username=shidharthlaishram-101)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Shidharth's GitHub stats](https://github-readme-stats.vercel.app/api?username=shidharthlaishram-101)](https://github.com/anuraghazra/github-readme-stats)-->
