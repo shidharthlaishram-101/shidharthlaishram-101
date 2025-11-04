@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 </p>
 
 * 👂 My name is Shidharth Laishram
-* 👩 Pronouns: He/Him
+* 👨 Pronouns: He/Him
 * 🔭 I’m currently a Student pursuing Bachelors in Computer Science and Engineering.
 * 🌱 I’m currently learning Machine Learning and AI.
 * 📫 How to reach me: shidharthlaishram@gmail.com
